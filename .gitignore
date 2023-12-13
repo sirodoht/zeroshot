@@ -1,0 +1,16 @@
+# python
+*.pyc
+
+# environment
+.venv/
+.envrc
+
+# sqlite database
+db.sqlite3
+
+# generated static
+/static/
+
+# testing
+.coverage
+htmlcov/
